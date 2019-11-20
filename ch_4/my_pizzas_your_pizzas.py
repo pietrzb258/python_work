@@ -8,8 +8,7 @@ friends_pizzas.append('onion')
 
 for pizza in pizzas:
     pizza
-print(f"My favorite pizzas are {}!")
-
+print(f"My favorite pizzas are {pizzas}!")
 
 #for pizza in pizzas:
  #   print(f"I like {pizza.title()} pizza!\n")
