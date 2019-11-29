@@ -5,4 +5,4 @@ favorite_numbers = {
     'alex':76,
     'lisa':47, 
     }
-print(f"Here is everyones favorite number:\n{favorite_numbers}")
+print(f"Here is everyones favorite number:\n{favorite_numbers}.")
